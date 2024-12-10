@@ -640,7 +640,7 @@ Location:
   font-size: var(--ztc-font-size-font-s16);
   line-height: var(--ztc-font-size-font-s16);
   font-weight: var(--ztc-weight-medium);
-  color: var(--ztc-text-text-4);
+  color: var(--ztc-text-text-13);
   border-radius: 8px;
   transition: all 0.4s;
   padding: 6px 10px;
@@ -661,7 +661,7 @@ Location:
   top: 0;
   transition: all 0.4s;
   background: var(--ztc-bg-bg-1);
-  opacity: 10%;
+  opacity: 3%;
   border-radius: 8px;
 }
 .heading1 h1 {
@@ -16372,7 +16372,7 @@ html {
   li:hover
   > a {
   transition: all 0.4s;
-  color: var(--ztc-text-text-4) !important;
+  color: var(--ztc-text-text-13) !important;
 }
 .homepage1-body
   .header-area.homepage1
@@ -16508,7 +16508,7 @@ html {
   display: inline-block;
   visibility: hidden;
   opacity: 0;
-  background: var(--ztc-text-text-4);
+  background: var(--ztc-text-text-13);
 }
 .homepage1-body
   .header-area.homepage1
